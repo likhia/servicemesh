@@ -1,0 +1,4 @@
+# Unit tests does not need config map
+# spring.application.name=booster
+greeting:
+  message: "Hello, %s!"
